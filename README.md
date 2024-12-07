@@ -31,8 +31,8 @@ The backend API is built using FastAPI, the frontend UI uses Streamlit, and opti
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/Avikg/One_day_tour_planning_Assignment
+   cd One_day_tour_planning_Assignment
    ```
 
 2. **Set Up the Virtual Environment**:
@@ -103,4 +103,3 @@ The backend API is built using FastAPI, the frontend UI uses Streamlit, and opti
 
 - **Dynamic Data Fetching**: Integrate third-party APIs for real-time activity recommendations.
 - **User Accounts**: Add authentication for multiple users and itinerary history.
-
